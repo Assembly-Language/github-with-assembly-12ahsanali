@@ -6,7 +6,7 @@ after each program commit with proper comment and push
 give the proper remarks here in readme
 
 
-reg #   ------------  Name --------
+reg # 23-ntu-cs-1130  Name Ahsan Ali
 
 
 
@@ -31,3 +31,4 @@ remarks about sum-pos
 
 
 Overall remarks
+
